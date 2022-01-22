@@ -1,0 +1,13 @@
+C:\Sistemas\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Sistemas\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Sistemas\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Sistemas\Ventas\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
