@@ -11,3 +11,17 @@ C:\Sistemas\Ventas\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
 C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
 C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
 C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Sistemas\Ventas\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Sistemas\Ventas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Sistemas\Ventas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Sistemas\Ventas\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Sistemas\Ventas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Sistemas\Ventas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.fmrProveedores.resources
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Sistemas\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
